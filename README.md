@@ -47,4 +47,4 @@ Another possible graph I would create would be a line chart that displays the pe
 have included a graph to show the average number of backers and average donation for successful, failed, and canceled Kickstarters. This would give an idea of the level of support needed to have a successful kickstarter. 
 
 ## References
-Throughout Module 1 and the Module 1 challenge, I worked with **chkCreate**.
+Throughout Module 1 and the Module 1 challenge, I worked with **@chkCreate**.
