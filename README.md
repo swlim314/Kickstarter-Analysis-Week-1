@@ -12,12 +12,12 @@ analysis was completed on the best launch date for a play based Kickstarter, as 
 Based on the Kickstarter data that was retrieved, I created a pivot table that mapped out successful, failed, and canceled Kickstarters for plays based on the month that they were launched.
 To do this, I first needed to create a new column in the Kickstarter Sheet to display years, which was done using the years function on excel and basing it off the date created conversion column. The pivot table
 was created by choosing parent category and years as filters, outcomes for the columns section, date created conversion for the rows, and count of outcomes as the values. After the pivot table was created, I sorted the
-campaign data in descending order (successful to failed to canceled). From there a line chart was created to graphically convey any relevant upticks in successful/failed/canceled kickstarters. ![Theater_Outcomes_vs_Launch](https://github.com/swlim314/Kickstarter-Analysis-Week-1/blob/cda1bcd31bdb3b0ae111bf3864115c1de3864e78/Theater_Outcomes_vs_Launch.png)
+campaign data in descending order (successful to failed to canceled). From there a line chart was created to graphically convey any relevant upticks in successful/failed/canceled kickstarters shown below. ![Theater_Outcomes_vs_Launch](https://github.com/swlim314/Kickstarter-Analysis-Week-1/blob/cda1bcd31bdb3b0ae111bf3864115c1de3864e78/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Pairing with that analysis, I looked at the number of successful, failed, and canceled Kickstarters based on certain goal amounts to determine the goal amounts that were more likely to succeed. To do this, I needed to use the
 COUNTIFS function, making sure I set my parameters correctly. After successfully counting the number of successful, failed, and canceled Kickstarters, I determined the percentages for each category. Using the goal amounts and
-the percentage of successful, failed, and canceled Kickstarters, I created a line chart to display the outcomes based on goals. ![Outcomes_vs_Goals](https://github.com/swlim314/Kickstarter-Analysis-Week-1/blob/cda1bcd31bdb3b0ae111bf3864115c1de3864e78/Outcomes_vs_Goals.png)
+the percentage of successful, failed, and canceled Kickstarters, I created a line chart to display the outcomes based on goals shown below. ![Outcomes_vs_Goals](https://github.com/swlim314/Kickstarter-Analysis-Week-1/blob/cda1bcd31bdb3b0ae111bf3864115c1de3864e78/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
