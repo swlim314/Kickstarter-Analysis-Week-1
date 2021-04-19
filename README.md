@@ -17,7 +17,7 @@ campaign data in descending order (successful to failed to canceled). From there
 ### Analysis of Outcomes Based on Goals
 Pairing with that analysis, I looked at the number of successful, failed, and canceled Kickstarters based on certain goal amounts to determine the goal amounts that were more likely to succeed. To do this, I needed to use the
 COUNTIFS function, making sure I set my parameters correctly. After successfully counting the number of successful, failed, and canceled Kickstarters, I determined the percentages for each category. Using the goal amounts and
-the percentage of successful, failed, and canceled Kickstarters, I created a line chart to display the outcomes based on goals shown below. ![Outcomes_vs_Goals](https://github.com/swlim314/Kickstarter-Analysis-Week-1/blob/cda1bcd31bdb3b0ae111bf3864115c1de3864e78/Outcomes_vs_Goals.png)
+the percentage of successful, failed, and canceled Kickstarters, I created a line chart to display the outcomes based on goals shown below. ![Outcomes_vs_Goals](https://github.com/swlim314/Kickstarter-Analysis-Week-1/blob/0b1a12bcdb9cf4110def01a5ecb9b20eb2517522/resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
